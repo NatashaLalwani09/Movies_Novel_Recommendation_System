@@ -1,4 +1,4 @@
-DSCI511 Project 
+Movies & Novel Recommendation System
 
 Author:
 Nijo Jacob
