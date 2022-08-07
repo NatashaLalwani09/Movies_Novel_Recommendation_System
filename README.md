@@ -2,9 +2,9 @@ DSCI511 Project
 
 Author:
 Nijo Jacob
-Nishchala Barde
 Natasha Lawani
-Nijo Jacob
+Nishchala Barde
+Nancy Melucci
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Movie Dataset:
